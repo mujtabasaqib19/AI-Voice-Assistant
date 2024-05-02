@@ -26,8 +26,7 @@ Follow these steps to set up the assistant:
 Clone the GitHub repository to your local machine using:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/mujtabasaqib19/AI-Voice-Assistant>
 ```
 
 ### Step 2: Install Dependencies
