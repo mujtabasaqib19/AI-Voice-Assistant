@@ -1,0 +1,7 @@
+streamlit
+pyttsx3
+wikipedia
+pandas
+fuzzywuzzy
+scikit-learn
+speechrecognition
