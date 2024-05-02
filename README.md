@@ -62,3 +62,7 @@ After launching the application, click the "Listen 🎙️" button to start voic
 - "Open my GitHub"
 
 The assistant will process your voice input and perform the requested action.
+
+# Feedback and Contact
+
+-Feel free to give feedback and contact on my email mujtabasaqib654@gmail.com
